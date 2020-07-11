@@ -1,8 +1,5 @@
-### Hi there 👋
-<br>
 
-![Intro](https://media.giphy.com/media/65VBy9Ccvyww9or9IR/giphy.gif)
-
+![Intro](https://media.giphy.com/media/mGDo9t7YQwQqxyilGP/giphy.gif)
 
 <!--
 **TechLead-21/TechLead-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

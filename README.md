@@ -1,7 +1,7 @@
 ## Hello World! <img src="./gifs/Hi.gif" width="30px"></h2>
 
 
-### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Techlead-21.Techlead-21)
+### Glad to see you here! 😄 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TechLead-21.TechLead-21)
 
 I'm a final year student pursuing Bachelors's in Computer Technology 🎓 from K.D.K College of Engineering 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ (mostly frontend) and also focusing on Ui/Ux field.
 

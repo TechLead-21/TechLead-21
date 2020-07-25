@@ -1,4 +1,4 @@
-## Hello World! <img src="./gifs/Hi.gif" width="30px"></h2>
+## Hello World! <img src="gifs/Hi.gif" width="30px">
 
 
 ### Glad to see you here! 😄 &nbsp; ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FTechLead-21%2Fhit-counter)

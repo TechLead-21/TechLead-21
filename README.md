@@ -23,6 +23,7 @@ I'm a final year student pursuing Bachelors's in Computer Technology 🎓 from K
 ![profile view](https://gpvc.arturio.dev/TechLead-21)
 
 ![Jayesh's github stats](https://github-readme-stats.vercel.app/api?username=TechLead-21&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechLead-21&layout=compact)](https://github.com/TechLead-21/github-readme-stats)
 
 #
 

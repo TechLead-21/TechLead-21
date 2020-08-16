@@ -16,7 +16,7 @@ I'm a final year student pursuing Bachelors's in Computer Technology 🎓 from K
 - 📊 Have a keen interest in Data Science, too.
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: Java is to JavaScript as Car is to Carpet 😅
-- 📫 How to reach me: ![Gmail Badge](https://img.shields.io/badge/-techlead.2112@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:techlead.2112@gmail.com)
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-techlead.2112@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:techlead.2112@gmail.com)](mailto:techlead.2112@gmail.com)
 
 ---
 

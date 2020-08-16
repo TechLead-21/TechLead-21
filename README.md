@@ -1,7 +1,6 @@
 ## Hello World! 🕺
 
-
-### Glad to see you here! 😄 &nbsp; ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FTechLead-21%2Fhit-counter)
+### Glad to see you here! 😄 
 
 I'm a final year student pursuing Bachelors's in Computer Technology 🎓 from K.D.K College of Engineering 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ (mostly frontend) and also focusing on Ui/Ux field.
 
@@ -18,6 +17,8 @@ I'm a final year student pursuing Bachelors's in Computer Technology 🎓 from K
 - 📫 How to reach me: techlead.2112@gmail.com
 
 ---
+
+![profile view](https://gpvc.arturio.dev/TechLead-21)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Techlead-21&show_icons=true&hide_border=true)
 

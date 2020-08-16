@@ -1,6 +1,6 @@
 ## Hello World! 🕺 I'm Jayesh
 
-_**Lets get social :**_  [![Linkedin Badge](https://img.shields.io/badge/-jayeshintech-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayeshintech/)](https://www.linkedin.com/in/jayeshintech/) [![Github Badge](https://img.shields.io/badge/-TechLead21-grey?style=flat&logo=github&logoColor=white&link=https://github.com/TechLead21/)](https://www.github.com/TechLead21/) [![Twitter Badge](https://img.shields.io/badge/-jayeshintech-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/jayeshintech/)](https://www.twitter.com/jayeshintech/) 
+_**Lets get social :**_  [![Linkedin Badge](https://img.shields.io/badge/-jayeshintech-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayeshintech/)](https://www.linkedin.com/in/jayeshintech/) [![Github Badge](https://img.shields.io/badge/-TechLead21-grey?style=flat&logo=github&logoColor=white&link=https://github.com/TechLead-21/)](https://www.github.com/TechLead-21/) [![Twitter Badge](https://img.shields.io/badge/-jayeshintech-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/jayeshintech/)](https://www.twitter.com/jayeshintech/) 
 
 ### Glad to see you here! 😄 
 

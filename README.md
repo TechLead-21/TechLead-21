@@ -10,9 +10,24 @@
 
 ### Glad to see you here! 😄 
 
-I'm a final year student pursuing Bachelors's in Computer Technology 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ (mostly frontend) and also focusing on Ui/Ux field.
+I'm a final year student pursuing Bachelors's in Computer Technology 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development (mostly frontend) and also focusing on Ui/Ux field.
 
 <br />
+
+### Languages and Tools:
+----
+<p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>    
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://devicon.dev/devicon.git/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+</p>
+
+---
 
 ### Talking about Personal Stuffs:
 

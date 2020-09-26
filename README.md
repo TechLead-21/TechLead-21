@@ -14,6 +14,9 @@ I'm a final year student pursuing Bachelors's in Computer Technology 🎓. I'm a
 
 <br />
 
+
+<!--
+
 ### Languages and Tools:
 ----
 <p align="center">
@@ -26,6 +29,8 @@ I'm a final year student pursuing Bachelors's in Computer Technology 🎓. I'm a
   <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original-wordmark.svg" alt="react" width="70" height="70"/> &nbsp;
   <img src="https://devicon.dev/devicon.git/icons/git/git-original-wordmark.svg" alt="git" width="55" height="55"/>
 </p>
+
+-->
 
 ---
 

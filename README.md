@@ -12,9 +12,6 @@
 
 I'm a final year student pursuing Bachelors's in Computer Technology 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development (mostly frontend) and also focusing on Ui/Ux field.
 
-<br />
-
-
 <!--
 
 ### Languages and Tools:
@@ -47,9 +44,7 @@ I'm a final year student pursuing Bachelors's in Computer Technology 🎓. I'm a
 
 ![profile view](https://gpvc.arturio.dev/TechLead-21)
 
-![Jayesh's github stats](https://github-readme-stats.vercel.app/api?username=TechLead-21&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechLead-21&layout=compact)](https://github.com/TechLead-21/github-readme-stats)
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=TechLead-21&show_icons=true&title_color=ffcc00&bg_color=f5f5f5&icon_color=00eaff&include_all_commits=true&count_private=true&custom_title=My%20Github%27s%20Stats)
 #
 
 <div align="center">

@@ -14,7 +14,7 @@
 
 ### Glad to see you here! 😄 
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development (mostly frontend) and also focusing on Ui/Ux field.
+I'm Bachelors's in Computer Science 🎓. I'm a passionate learner who's always willing to learn and work across various technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development (mostly frontend) and also focusing on Ui/Ux field.
 
 <!--
 
